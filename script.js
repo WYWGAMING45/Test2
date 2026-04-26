@@ -1,4 +1,4 @@
-// ========== CONFIGURATION ==========
+@// ========== CONFIGURATION ==========
 // Replace with your deployed Google Apps Script Web App URL
 const GAS_WEBAPP_URL = 'https://script.google.com/macros/s/AKfycbw6GpN-w9l1Qm0mh0xfnHw2k9Y-7VQKqZb5Yp6GExZ3Yj3e6z5y/exec';
 
